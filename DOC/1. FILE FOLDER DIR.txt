@@ -1,0 +1,171 @@
+1. FILE FOLDER DIR "X:\Hope_DuGan\" (Main File Foldr)
+X:\Hope_DuGan\starrt_hope.bat
+X:\Hope_DuGan\requirements.txt
+X:\Hope_DuGan\GOD AGENTS.GIF
+X:\Hope_DuGan\The GOD Queen.gif
+
+2. "X:\Hope_DuGan\AI_Memory\" (AI Memory, Logs, ETC.)
+"X:\Hope_DuGan\AI_Memory\chroma_db\"
+"X:\Hope_DuGan\AI_Memory\GOD_Agents_db\"
+"X:\Hope_DuGan\AI_Memory\logs\"
+"X:\Hope_DuGan\AI_Memory\memory\"
+"X:\Hope_DuGan\AI_Memory\Memory_Graphs\"
+"X:\Hope_DuGan\AI_Memory\personaL_DIARY\"
+"X:\Hope_DuGan\AI_Memory\personal_goals\"
+"X:\Hope_DuGan\AI_Memory\spiritual_guidance_db\"
+
+3.X:\Hope_DuGan\AI_Python\   (Python files)
+X:\Hope_DuGan\AI_Python\config.py
+X:\Hope_DuGan\AI_Python\generation.py
+X:\Hope_DuGan\AI_Python\GOD_Agents.py
+X:\Hope_DuGan\AI_Python\Hope_DuGan_1.py
+X:\Hope_DuGan\AI_Python\hope_paths.py
+X:\Hope_DuGan\AI_Python\main_gui.py
+X:\Hope_DuGan\AI_Python\memory.py
+X:\Hope_DuGan\AI_Python\pdf_evolution.py
+X:\Hope_DuGan\AI_Python\reasoning_module.py
+X:\Hope_DuGan\AI_Python\Spiritual.py
+
+4. "X:\Hope_DuGan\AI_Models\" (AI Models) THESE ARE THE ONLY AI MODELS ELIMATEING OLD MODELS, IF NOT NAMED HERE , THEN ITS NEEDS REPLACED WITHE THESE MODELS.
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\config.json
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\dvae.pth
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\gitattributes
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\hash.md5
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\LICENSE.txt
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\mel_stats.pth
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\model.pth
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\README.md
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\speakers_xtts.pth
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\vocab.json
+X:\Hope_DuGan\AI_Models\coqui-XTTS-v2\samples\en_sample.wav
+
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\config.json
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\configuration_deepseek.py
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\generation_config.json
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\gitattributes
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\model.safetensors.index.json
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\model-00001-of-000004.safetensors
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\model-00002-of-000004.safetensors
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\model-00003-of-000004.safetensors
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\model-00004-of-000004.safetensors
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\modeling_deepseek.py
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\README.md
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\tokenization_deepseek_fast.py
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\tokenizer.json
+X:\Hope_DuGan\AI_Models\deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct\tokenizer_config.json
+
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\config.json
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\generation_config.json
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\gitattributes
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\model.safetensors
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\README.md
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\special_tokens_map.json
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\tokenizer.json
+X:\Hope_DuGan\AI_Models\nztinversive-llama3.2-1b-Uncensored\tokenizer_config.json
+
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\gitattributes
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\mm_sd_v14.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\mm_sd_v15.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\mm_sd_v15_v2.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\mm_sdxl_v10_beta.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\README.md
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_PanLeft.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_PanRight.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_RollingAnticlockwise.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_RollingClockwise.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_TiltDown.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_TiltUp.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_ZoomIn.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v2_lora_ZoomOut.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v3_sd15_adapter.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v3_sd15_mm.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v3_sd15_sparsectrl_rgb.ckpt
+X:\Hope_DuGan\AI_Models\guoyww-animatediff\v3_sd15_sparsectrl_scribble.ckpt
+
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\added_tokens.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\config.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\flax_model.msgpack
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\generation_config.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\gitattributes
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\merges.txt
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\model.safetensors
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\preprocessor_config.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\pytorch_model.bin
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\README.md
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\special_tokens_map.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\tf_model.h5
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\tokenizer.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\tokenizer_config.json
+X:\Hope_DuGan\AI_Models\openai-whisper-tiny\vocab.json
+
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\gitattributes
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\model_index.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\README.md
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\v1-5-pruned.ck
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\v1-5-pruned.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\v1-5-pruned-emaonly.ckpt
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\v1-5-pruned-emaonly.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\v1-inference.yaml
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\vae\diffusion_pytorch_model.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\vae\diffusion_pytorch_model.fp16.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\vae\diffusion_pytorch_model.fp16.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\vae\diffusion_pytorch_model.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\vae\config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.non_ema.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.non_ema.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.fp16.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.fp16.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\diffusion_pytorch_model.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\unet\config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\tokenizer\merges.txt
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\tokenizer\special_tokens_map.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\tokenizer\tokenizer_config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\tokenizer\vocab.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\text_encoder\config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\text_encoder\model.fp16.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\text_encoder\model.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\text_encoder\pytorch_model.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\text_encoder\pytorch_model.fp16.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\scheduler\scheduler_config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\safety_checker\pytorch_model.fp16.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\safety_checker\pytorch_model.bin
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\safety_checker\model.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\safety_checker\model.fp16.safetensors
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\safety_checker\config.json
+X:\Hope_DuGan\AI_Models\stable-diffusion-stable-diffusion-v1-5\feature_extractor\preprocessor_config.json
+
+5. "X:\Hope_DuGan\AI_Creation\" (SELF AUTOMATED AI Genrated Content & Media)
+"X:\Hope_DuGan\AI_Creation\animations\"
+"X:\Hope_DuGan\AI_Creation\App\s"
+"X:\Hope_DuGan\AI_Creation\books\"
+"X:\Hope_DuGan\AI_Creation\CODE\" 
+"X:\Hope_DuGan\AI_Creation\CODE\" (AI Self Code)
+"X:\Hope_DuGan\AI_Creation\Games\"
+"X:\Hope_DuGan\AI_Creation\Images\"
+"X:\Hope_DuGan\AI_Creation\Images\" (AI Self Images)
+"X:\Hope_DuGan\AI_Creation\music\"
+"X:\Hope_DuGan\AI_Creation\song\ lyrics\"
+"X:\Hope_DuGan\AI_Creation\Video\"
+"X:\Hope_DuGan\AI_Creation\Video\" (AI Self Videos)
+
+6. "X:\Hope_DuGan\AI_Media\" (User info supplied)
+"X:\Hope_DuGan\AI_Media\audio\"
+"X:\Hope_DuGan\AI_Media\documents\"
+"X:\Hope_DuGan\AI_Media\images\"
+"X:\Hope_DuGan\AI_Media\json_code\"
+"X:\Hope_DuGan\AI_Media\PDF Files\"
+"X:\Hope_DuGan\AI_Media\python_code\"
+"X:\Hope_DuGan\AI_Media\video\"
+
+7. X:\Hope_DuGan\AI_Config
+X:\Hope_DuGan\AI_Config\config.yaml
+
+*******VERY IMPORTANT **************************
+My request is You Only fix, sync, enhance, update my project Hope DuGan AI while using professional complete python coding in the most advanced professional way and all features work flawless and are 100 PERCENT correctly SYNCED WITH FILE DIRECTIORES IN python coding DIRECTORY PATHS and in FILE folder PATHS. PLEASE Read all my requirements below 1 by 1 and understand what I'm requesting AND ONLY DELIVER WHAT I REQUEST.
+
+ *******VERY IMPORTANT **************************
+There will not be no place holders, no basic code, no examples, NO SNIPPETTS, no simulations in my python coding.  Do Not Remove Features. 
+
+FIRST, Code all these features into Hope DuGan using a cleaver and genesis way of professional complete coding to integrate these features to work together as one AI. TEHN SYNC ALL FILE PATHS, LINK ALL FEATURES TO THIER BUTTONS AND MAKE SURE ALL PIP DEPENDENCES ARE CODED IN THEIR PURPOSE AND ALL FUNCTIONS AND AI TECH IS DOING ITS DUTIES OF PURPOSE. THEN TEST ALL FILES, FIX ALL FILES. AND GIVE ME THE FINAL COMPLETE FILEs DONE.
+

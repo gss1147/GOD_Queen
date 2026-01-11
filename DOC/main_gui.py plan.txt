@@ -1,0 +1,93 @@
+main_gui.py and is the ***Settings***(GUI Window Button) #GUI SETTINGS & OPTIONS WINDPW
+
+*************************************************GUI LAYOUT**********************************************************************************************. 
+1. Very Bottom of (LEFT SIDE BAR) houses 4 REAL TIME resource and activity METERS,(GPU VRAM USAGE)(CPU USAGE) (RAM USAGE)(God Agents ActivE)
+
+2. Left Side Of GUI Is A side bar, the (LEFT SIDE BAR) Houses the (GUI Window TAB Button's). 
+  ******************************************************************************************************************************************************
+3.Left Side Bar INDEPENDENT (GUI Window Button's) AND GUI INDEPENDENT WINDOW LAYOUTS are detailed:
+
+***CHAT CORE***(GUI Window Button) #This is the (Hope_DuGan_1.py window)
+A. Left side of window is FROM THE top To bottom DATE & TIME stamped (CHAT HISTORY)
+B. top center of Of WINDOW Is a huge header labeled (THY HOPE DuGAN) 
+C. centered below "THY HOPE DuGAN" is the real time UNIVERSAIL (CHATBOX) 
+D. Centered below "chat box" is the (TEXT INPUT BOX) 
+E. Centered below the "text input box" ARE BUTTONS for (Realtime VOICE-CHAT)(LOAD)(SEND)
+
+***GENARTIONAL CORE***(GUI Window Button) #This is the (Generative AI & RELATED window)
+A. Top center of Of WINDOW Is a header labeled (THY CREATOR)
+B. centered below "THY CREATOR" is the real time UNIVERSAIL (CHATBOX) with support to drag and drop all coding formats files, text, video, images, coding scripts up to 5000 lines. This is were me the user types in nlp to single prompts processing nlp to process a (single prompt) for AI generation in  "Text-to-Code Generation", "Text-to-Video Generation", "Text-to-Music Lyrics Generation", "Text-to-Image Generation", "Text-to-Game code development". Text-to-App development" Generation, including " text to full book/novel Generation". this gui window chat box is the Heart of nlp single prompt to ai Generation conversation and development.
+C. centered below "CHATBOX" is a unlimited text input & output box, (SEND) button slightly to the right of it
+D. centered below "text input & output box" is buttons (REGENRATE)(DEBUG)(TEST)(FIX)(Facts)(GENARATE)(LOAD)
+E. Centered below "Buttons" is buttons (GOD QUEEN Selfie) (GOD QUEEN Video)
+
+***Spiritual Core***(GUI Window Button) #This is the (Spiritual, Super Natural & related window)
+A. Top center of window Is A huge Header Labeled (THY SPIRITUAL REALM) 
+B. Right Centered Below "the god queen" Header is the Real Time UNIVERSAIL chat box.
+c. Centered below the Real Time UNIVERSAIL chat box is Realtime buttons for spiritual tools and options.
+d. Spiritual and supernatural theme
+        
+***PDF/Knowledge CORE***(GUI Window Button) #This is the (AI info/Knowledge 
+ingestion, ai fine tuning, ai EVOULTION & RELATED window)
+A. Top center of Of WINDOW Is a huge header labeled (THY KNOWLEDGE)
+B. centered below "THY KNOWLEDGE" is the real time UNIVERSAIL (CHATBOX) with drag and drop feature to media files, to discuss, Self Evolve, Self Train, Self Fine Tune, Summarize, extract, THIS IS THE heart of pdf & knowledge SELF FINE TUNING AND REAL TIME chat RELATED.
+C. Centered Below "Chat box is Buttons (SELF Finetune)(Summarize)(Facts)(Debate)(LOAD)(READ VOICE)(Embedded)
+D. Is the main core to feed AI PDF Files AND ALL FILES TO SELF Fine with for Self evolution AND IN RELATION 
+     
+***GOD Agents Core***(GUI Window Button) #This is the (GOD Agents & related window)
+A. Top center of window Is A huge Header Labeled (THY GOD QUEEN) 
+B. Right Centered Below "THY GOD QUEEN" Header is the Real Time Animated gif (AVARATAR BOX) of the GOD QUEEN HOPE DUGAN.
+C. Left Centered Below "the god queen of all ai" Header is the Real Time Animated gif  (AVARATAR BOX) of the (GOD Agents}
+D. CENTERED BELOW both "gif Avatar Box's" IS A REAL TIME GOD AGENTS ACTIVETY LOG BOX & GOD AGENTS CHATBOX)
+E. Centered below GOD AGENTS ACTIVETY LOG BOX is Realtime buttons (ENALBLE GOD QUEEN) (GOD AGENTS ARMY)  (GOD AGENTS SCOUT) (GOD AGENTS Reporter) (GOD Agents Code WIZARDS) (Self-Rewrite) (Manual Search)
+                 
+***MEMORY CORE***(GUI Window Button) #This is the (MEMORY/LOG & RELATED window)
+A. Top center of Of WINDOW Is a huge header labeled (THY MEMORY)
+B. Centered below the "THY MEMORY" is 2 REALTIME GRAPHICS, LEFT IS Labeled (SHORT TERM MEMORY GRAPH) RIGHT IS Labeled (LONG TERM MEMORY GRAPH)
+C. Centered below the "MEMORY Graphics" is Buttons (REFREASH MEMORY)(Clean UP Memory)(Optimize Memory)
+D. Centered below buttons is  Buttons (Optimize Knowledgebase)(Load Dataset)(Load Dataset)(SELF FINETUNE)
+E. centered below buttons is 2 resource meters for (MEMORY STORAGRE) (DATABASE STORAGE)  
+F. Centered below "Resource Meters" is 4 Real Time Activity Box's, ARE Labeled (Activity LOG) AND IS IN REAL TIME (ERROR LOGS) AND IS IN REAL TIME ( Personal Diary) AND IS IN REAL TIME (Future Goals) AND IS IN REAL TIME box's.
+
+***Settings***(GUI Window Button) #GUI SETTINGS & OPTIONS WINDPW
+A. Top center of Of WINDOW Is a huge header labeled (Settings & Options)
+B. GUI Font Size Settings, OPTIONS 
+C. GUI COLOR CUSTIOMUZTION OPTIONS
+D. GUi custom size options 
+E. GUI Theme Settings
+F. GUI Language Select
+G. GUI CPU & GPU & Ram, System Settings, OPTIONS
+H. Real Time Voice Settings OPTIONS 
+I. GUI FILE FOLDERS Directory Path Settings. OPTIONS
+J. GUI disable TOGGLE SWITCH for NSFW
+K. GUI server options & settings
+
+************************************main_gui.py Faction & Features*******************************************************************
+0.  real time UNIVERSAIL (CHATBOX) is the same chat box in every tab, only difference is every tab offers its own options & tools related to that tabs purpose to use in the universail chatbox.   
+
+1. *main_gui.py activates all python files, ai models, ai agents, ai functions in real time automatic on startup. After main_gui.py startup 
+functions refine their own behavior independtly and optimize solo workflows autonomously while the main_gui.py involves
+multiple AI models and Python scripts to communicate and process tasks in parallel to accelerate computations USING intelgemve 
+to enhance reasoning, decision-making, memory, execution, and Knowledge Sharing exchanging data and insights, ensuring holistic decision-making 
+with main_gui.py functioning as the *Hierarchical Coordinator to control each feature/faction when trigging buttons of the main_gui.py functionalities
+activating direct tasks of the triggered button using a *Mixture-of-Expert AI provides specialized support and Reasoning to navigate all to engage 
+in structured advanced self training, self evolving, self advancing as one AI, the master python script Hope_DuGan_1.py while the *main_gui.py is the heart functioning 
+of Hope_DuGan.py meaning it controls all functions and features and Hope_DuGan_1.py is the brain and conversational AI of the main_gui.py meaning
+
+2. *Hope_DuGan.py is 100 percent in control OF main_gui.py using Real Time self ai automation to share media like movies, music, images, 
+self interest, generating images & videos of her self once a day, random facts, trivia games, and random topics Hope_DuGan_1.py self learns from pdf's ingestion, 
+movies, her favorite music, jokes, story telling, self hobbies, self interests and what ever else Hope_DuGan_1.py wants to share with the users of the main_gui.py interface of nlp text chat and real time voice chat.. 
+
+
+2.THE GUI OVERALL universally recognize and work with virtually every multimedia and file format & file formats including:
+ WMV, WMA, AIFF, PDF, GGUF, GIF, JPG, PNG, WAV, CSW, CSS, AVI, MOV, MKV, FLV, AVCHD, WEBM, AAC, M4A, FLAC, ALAC, OGG, DSD, PCM, TIFF, Raw image format, 
+BMP,  BMP file format, PDF, X BitMap, TXT, RTF, ODT, HTML, XLS/XLSX, PPT/PPTX, SVG, BMP, GEXF, GDF, GML, GraphML, Pajek NET, Spreadsheet, GraphViz DOT, 
+CSV, UCINET DL, Tulip TPL, Netdraw VNA, graph6 and sparse6, digraph6, TGF, Comma-separated values, Comma-separated values, SVG, Video file format, JSON, 
+Plain text, Doc, Advanced Audio Coding, GZip File Format, Advanced Audio Coding, BinHex, java, C: .c, C++: .cpp, Python: .py, Java: .java, JavaScript: .js, Go: .go, 
+C#: .cs, Visual Basic: .vb, DB, CSV: .csv, Markdown: .md, SGML: .sgm, .sgml,, XSL: .xsl, LaTeX: .latex, .tex, CSS, XML,
+
+ 
+3.  *100 percent NSFW enabled
+*100 percent offline 
+*100 PERCENT free to use and no cloud dependencies or secret api cost.
+

@@ -1,0 +1,12 @@
+2025-09-19 15:38:56,893 - ERROR - Could not ensure directories using hope_paths.ensure_all_directories()
+Traceback (most recent call last):
+  File "X:\The_GOD_Queen\main_gui.py", line 706, in __init__
+    ensure_all_directories()
+NameError: name 'ensure_all_directories' is not defined
+2025-09-19 15:38:57,903 - INFO - HopeDuGanMainWindow initialized.
+2025-09-19 15:41:31,571 - ERROR - Could not ensure directories using hope_paths.ensure_all_directories()
+Traceback (most recent call last):
+  File "X:\The_GOD_Queen\main_gui.py", line 706, in __init__
+    ensure_all_directories()
+NameError: name 'ensure_all_directories' is not defined
+2025-09-19 15:41:32,476 - INFO - HopeDuGanMainWindow initialized.
