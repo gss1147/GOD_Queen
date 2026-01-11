@@ -1,0 +1,71 @@
+# Hope DuGan AI System Configuration
+
+# General Settings
+general:
+  name: "Hope DuGan"
+  alias: "GOD Queen"
+  version: "1.0.0"
+  debug_mode: false
+  offline_mode: true
+
+# Model Settings
+models:
+  text_generation:
+    model_path: "../AI_Models/deepseek-ai-DeepSeek-Coder-V2-Lite-Instruct"
+    max_tokens: 512
+    temperature: 0.7
+    top_p: 0.9
+  image_generation:
+    model_path: "../AI_Models/stable-diffusion-stable-diffusion-v1-5"
+    steps: 25
+    guidance_scale: 7.5
+  speech_synthesis:
+    model_path: "../AI_Models/coqui-XTTS-v2"
+  speech_recognition:
+    model_path: "../AI_Models/openai-whisper-tiny"
+
+# Memory Settings
+memory:
+  db_path: "../AI_Memory/memory.sqlite3"
+  max_conversations: 1000
+  conversation_ttl_days: 90
+  auto_vacuum: true
+
+# Generation Settings
+generation:
+  output_dirs:
+    code: "../AI_Creation/CODE"
+    images: "../AI_Creation/Images"
+    videos: "../AI_Creation/Video"
+    music: "../AI_Creation/music"
+    lyrics: "../AI_Creation/song lyrics"
+    games: "../AI_Creation/Games"
+    apps: "../AI_Creation/Apps"
+    books: "../AI_Creation/books"
+    animations: "../AI_Creation/animations"
+
+# PDF Settings
+pdf:
+  max_pages_to_process: 50
+  max_text_length: 16000
+  summary_max_tokens: 512
+
+# Spiritual Settings
+spiritual:
+  daily_message_count: 5
+  tarot_deck_size: 22
+
+# GOD Agents Settings
+god_agents:
+  max_workers: 4
+  task_queue_timeout: 0.5
+  log_level: "INFO"
+
+# GUI Settings
+gui:
+  window_size:
+    width: 1000
+    height: 700
+  theme: "dark"
+  font_size: 11
+  refresh_rate: 1000  # milliseconds
